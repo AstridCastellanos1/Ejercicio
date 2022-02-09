@@ -13,3 +13,62 @@ h2{
 body{
     text-align: center;
 }
+.agrupar{
+    width: 960px;
+    background: rgb(252, 219, 224);
+    margin: auto;
+    padding: 30px;
+}
+.cabecera{
+    background: pink;
+    padding: 10px;
+}
+.cabecera h1{
+    text-align: left;
+}
+.menu{
+    background: rgb(145, 143, 143);
+    text-align: left;
+}
+.menu li{
+    list-style: none;
+    padding: 5px;
+    font: lighter 20px verdana;
+    display: inline-block;
+}
+.seccion {
+    float: left;
+    margin: 20px;
+    width: 600px;
+}
+article {
+    background: rgb(247, 205, 212); 
+    margin-bottom: 15px;
+}
+time {
+    color: #999;
+}
+article footer {
+    text-align: right;
+    margin-top: 20px;
+}
+
+img {
+    width: 550px;
+    margin-top: 20px;
+}
+.citas {
+    float: left;
+    margin: 20px 0;
+    width: 300px;
+}
+.citas blockquote {
+    background: rgb(238, 227, 227);
+    padding: 40px;
+    margin-bottom: 10px;
+    color: plum;
+}
+.pie {
+    clear: both;
+}
+
